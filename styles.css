@@ -13,7 +13,7 @@ body {
   background-color: #f9dbbd;
   height: 50%;
   width: 100%;
-  background-image: url("/images/pinkblur.jpg");
+  background-image: url("pinkblur.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
